@@ -1,7 +1,7 @@
 # Sentinel
 # EcoSentinel
 
-## Overview
+## Summary
 EcoSentinel is an AI-powered environmental monitoring system designed to track and analyze online news, social media, and published papers to detect and predict environmental threats globally.
 
 ## Background
